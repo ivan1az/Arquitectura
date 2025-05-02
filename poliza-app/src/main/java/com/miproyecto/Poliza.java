@@ -67,4 +67,8 @@ public class Poliza implements Serializable {
     public void setCurpCliente(String curpCliente) {
         this.curpCliente = curpCliente;
     }
+
+    public poliza(){
+    }
+    
 }
